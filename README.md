@@ -1,5 +1,5 @@
 # Whatismycomputer
-Creating an API for a website where someone can go to whatismycomputer.com and it will automatically generate computer name, manafacture, model, year,
+Creating an API for a website where someone can go to whatismycomputer.com and it will automatically generate computer name, manafacturer, model, year,
 serial number, product id, memory, storage, chipset, and other specifications.
 
 
